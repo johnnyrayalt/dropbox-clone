@@ -12,7 +12,7 @@ function Body() {
           .container {
             padding-top:120px;
             width:900px;
-            margin:auto;
+            margin:100px auto 200px auto;
             display: flex;
             justify-content:space-around;
           }
